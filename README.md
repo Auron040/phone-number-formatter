@@ -20,7 +20,7 @@ A Streamlit application for processing and standardizing phone numbers in CSV an
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/phone-number-formatter.git
+   git clone https://github.com/Auron040/phone-number-formatter.git
    cd phone-number-formatter
    ```
 
